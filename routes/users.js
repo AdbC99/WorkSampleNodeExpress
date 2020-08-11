@@ -1,5 +1,5 @@
 var express = require('express');
-var id = require('../components/Identification');
+var id = require('../components/user/Identification');
 var router = express.Router();
 
 /**
